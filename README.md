@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Rjcferreira — SourceDump Store">
+  <img src="https://raw.githubusercontent.com/Rjcferreira/Rjcferreira/main/assets/flowstore-sourcedump-header.png" width="100%" alt="FlowStore e SourceDump Store">
 
   ### 💻 Codando sonhos em código · 🚀 Explorando novas tecnologias · 🌱 Sempre aprendendo algo novo · 📫 Vamos nos conectar
 
@@ -10,6 +10,8 @@
 
 ## Olá, eu sou o Rjcferreira 👋
 
+Sou o fundador da **FlowStore**, uma loja dedicada ao ecossistema FiveM com cerca de 4–5 anos de atividade, e o criador da **SourceDump Store**, a vertente onde desenvolvo ferramentas, software e projetos gratuitos para a comunidade.
+
 Gosto de transformar ideias em ferramentas reais, explorar sistemas complexos e aprender enquanto construo. Trabalho especialmente com aplicações para Windows, automação, painéis web e soluções defensivas orientadas para utilização prática.
 
 ```text
@@ -17,6 +19,22 @@ FOCO ATUAL       C# · .NET · Windows · Segurança defensiva
 INTERESSES       Automação · Redes · Interfaces · Ferramentas para servidores
 FILOSOFIA        Construir, testar, aprender e partilhar
 ```
+
+## Duas marcas, uma trajetória
+
+<table>
+  <tr>
+    <td width="180" align="center">
+      <img src="https://raw.githubusercontent.com/Rjcferreira/Rjcferreira/main/assets/flowstore-sourcedump-logo.png" width="150" alt="Emblema FlowStore e SourceDump Store">
+    </td>
+    <td>
+      <b>FlowStore</b><br>
+      Loja dedicada ao FiveM, construída ao longo de vários anos com foco na comunidade e no ecossistema de servidores.<br><br>
+      <b>SourceDump Store</b><br>
+      Laboratório de software, automação e segurança defensiva, com ferramentas criadas para serem úteis, transparentes e gratuitas.
+    </td>
+  </tr>
+</table>
 
 ## Projeto em destaque
 
