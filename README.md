@@ -12,7 +12,7 @@
 
 Sou o fundador da **FlowStore**, uma loja dedicada ao ecossistema FiveM com cerca de 4–5 anos de atividade.
 
-A **SourceDump Store** representa uma vertente independente dedicada a ferramentas, software e projetos gratuitos para a comunidade. A identidade do seu criador permanece anónima.
+A **SourceDump Store** representa uma vertente independente dedicada a ferramentas, software e projetos gratuitos para a comunidade.
 
 Os projetos para FiveM ocupam uma parte importante do meu tempo livre, mas a minha curiosidade vai muito além disso. Gosto de transformar ideias em produtos reais: websites, bots, painéis web, automações, aplicações para Windows, ferramentas para servidores e soluções defensivas orientadas para utilização prática.
 
