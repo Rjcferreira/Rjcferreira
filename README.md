@@ -49,7 +49,7 @@ FILOSOFIA        Construir, testar, aprender e partilhar
   </tr>
 </table>
 
-## Projeto em destaque
+## Projetos em destaque
 
 <table>
   <tr>
@@ -59,11 +59,21 @@ FILOSOFIA        Construir, testar, aprender e partilhar
       Defesa adaptativa e observabilidade de rede para Windows 10/11 e Windows Server, com três agentes isolados, filtragem WFP e painel de telemetria em tempo real.
     </td>
   </tr>
+  <tr>
+    <td width="72"><b>🌐 UDP</b></td>
+    <td>
+      <a href="https://github.com/Rjcferreira/FiveM.UdpShield"><b>FiveM UDP Shield</b></a><br>
+      Versão anterior especializada em FiveM: proxy TCP/UDP com rate limiting, blacklist, painel web, telemetria em tempo real e instalação automatizada para Windows Server.
+    </td>
+  </tr>
 </table>
 
 [![Release](https://img.shields.io/github/v/release/Rjcferreira/SourceDump-Sentinel?style=flat-square&color=16e0a1)](https://github.com/Rjcferreira/SourceDump-Sentinel/releases/latest)
 [![Build](https://img.shields.io/github/actions/workflow/status/Rjcferreira/SourceDump-Sentinel/build.yml?branch=main&style=flat-square&label=build)](https://github.com/Rjcferreira/SourceDump-Sentinel/actions)
 [![License](https://img.shields.io/badge/licença-SourceDump-ffb020?style=flat-square)](https://github.com/Rjcferreira/SourceDump-Sentinel/blob/main/LICENSE.md)
+
+[![UDP Shield Release](https://img.shields.io/github/v/release/Rjcferreira/FiveM.UdpShield?style=flat-square&label=UDP%20Shield&color=00d8ff)](https://github.com/Rjcferreira/FiveM.UdpShield/releases/latest)
+[![UDP Shield Build](https://img.shields.io/github/actions/workflow/status/Rjcferreira/FiveM.UdpShield/build.yml?branch=main&style=flat-square&label=UDP%20build)](https://github.com/Rjcferreira/FiveM.UdpShield/actions)
 
 ## Tecnologias
 
